@@ -10,7 +10,8 @@
 |---|---|
 | **Nom** | Oeil de Dieu |
 | **Version** | 1.0 |
-| **Developpe par** | NAG NAT Industries |
+| **Developpe par** | NAG NAT International Foundation Technologies|
+
 | **Fondateur** | NAGALO  Williams Nathanael  |
 | **Annee** | 2026 |
 | **Contact** | Aucun (raisons de securite) |
@@ -27,7 +28,7 @@ Oeil de Dieu est une application de surveillance intelligente, de detection faci
 
 **NIVEAU D'HABILITATION MINIMUM REQUIS : 3**
 
-L'acces a ce systeme est strictement reglemente. Tout utilisateur doit disposer d'une habilitation de niveau 3 minimum, valide par le Comite Ethique de NAG NAT International Foundation Technologies. Consultez le fichier `POLITIQUE.md` pour les regles completes d'utilisation.
+L'acces a ce systeme est strictement réglementé. Tout utilisateur doit disposer d'une habilitation de niveau 3 minimum, valide par le Comité Ethique de NAG NAT International Foundation Technologies. Consultez le fichier `POLITIQUE.md` pour les regles completes d'utilisation.
 
 ---
 
@@ -128,7 +129,7 @@ python main.py
 ## Securite
 
 - Le mot de passe maitre est TOUJOURS stocke sous forme de hash bcrypt — jamais en clair.
-- Le Gold Code TOTP est renouvele automatiquement toutes les 5 minutes.
+- Le Gold Code TOTP est renouvele automatiquement toutes les 60 seconde soit environ 1 minute.
 - Les logs de session sont chiffres en JSON.
 - L'acces 2FA via Google Authenticator est obligatoire.
 
@@ -140,4 +141,4 @@ Ce systeme est reserve a un usage professionnel autorise. Toute utilisation non 
 
 ---
 
-*NAG NAT Industries -- 2026 -- Tous droits reserves*
+*NAG NAT International Foundation Technologies-- 2026 -- Tous droits reserves*
