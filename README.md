@@ -11,7 +11,7 @@
 | **Nom** | Oeil de Dieu |
 | **Version** | 1.0 |
 | **Developpe par** | NAG NAT Industries |
-| **Fondateur** | NAGALO Nathanael alias Mr Zero Day |
+| **Fondateur** | NAGALO  Williams Nathanael  |
 | **Annee** | 2026 |
 | **Contact** | Aucun (raisons de securite) |
 
@@ -19,7 +19,7 @@
 
 ## Description
 
-Oeil de Dieu est une application de surveillance intelligente, de detection faciale et d'analyse de haut niveau developpee par NAG NAT Industries. Elle integre la reconnaissance faciale, la recherche de personnes, la surveillance camera, la triangulation geographique et la recherche web avancee dans une interface unifiee et securisee.
+Oeil de Dieu est une application de surveillance intelligente, de detection faciale et d'analyse de haut niveau developpee par LA NAG NAT International Foundation Technologies. Elle integre la reconnaissance faciale, la recherche de personnes, la surveillance camera, la triangulation geographique et la recherche web avancee dans une interface unifiee et securisee.
 
 ---
 
@@ -27,7 +27,7 @@ Oeil de Dieu est une application de surveillance intelligente, de detection faci
 
 **NIVEAU D'HABILITATION MINIMUM REQUIS : 3**
 
-L'acces a ce systeme est strictement reglemente. Tout utilisateur doit disposer d'une habilitation de niveau 3 minimum, valide par le Comite Ethique de NAG NAT Industries. Consultez le fichier `POLITIQUE.md` pour les regles completes d'utilisation.
+L'acces a ce systeme est strictement reglemente. Tout utilisateur doit disposer d'une habilitation de niveau 3 minimum, valide par le Comite Ethique de NAG NAT International Foundation Technologies. Consultez le fichier `POLITIQUE.md` pour les regles completes d'utilisation.
 
 ---
 
